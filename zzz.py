@@ -1,1 +1,1 @@
-print("one  00sd  ")
+print("one  g0sd  ")
